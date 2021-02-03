@@ -17,15 +17,18 @@
   <img src = "https://github-readme-stats.vercel.app/api/top-langs/?username=arunism&theme=dark">
 </p>
 
+<br>
 <hr>
+<br>
+
 <p align="center">
-  <i>You can connect with me here!</i>
+### Feel free to shoot me a message!
   <p align="center">
-    <a href="https://twitter.com/arunship" alt="Twitter"><img height="32" width="32" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg"/></a>
-    <a href="https://facebook.com/arunnism" alt="Facebook"><img height="32" width="32" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/facebook.svg"/></a>
-    <a href="https://www.linkedin.com/in/arunism" alt="Linkedin"><img height="32" width="32" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" /></a>
-    <a href="https://github.com/arunism" alt="GitHub"><img height="32" width="32" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/github.svg" /></a>
-    <a href="https://medium.com/@arunism" alt="Medium"><img height="32" width="32" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/medium.svg" /></a>
+    <a href="https://twitter.com/arunship" alt=""><img height="32" width="32" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg"/></a>
+    <a href="https://facebook.com/arunnism" alt=""><img height="32" width="32" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/facebook.svg"/></a>
+    <a href="https://www.linkedin.com/in/arunism" alt=""><img height="32" width="32" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" /></a>
+    <a href="https://github.com/arunism" alt=""><img height="32" width="32" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/github.svg" /></a>
+    <a href="https://medium.com/@arunism" alt=""><img height="32" width="32" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/medium.svg" /></a>
   </p>
 </p>
 
