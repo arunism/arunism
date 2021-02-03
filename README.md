@@ -8,10 +8,10 @@
   I chose to do for a living. In fact, I call it now my "full-time" addiction. 
 </p>
 
-
+<br>
+<hr>
 <br>
 
-<hr>
 <p align = "center">
   <img src = "https://github-readme-stats.vercel.app/api?username=arunism&show_icons=true&theme=dark&line_height=40">
   <img src = "https://github-readme-stats.vercel.app/api/top-langs/?username=arunism&theme=dark">
