@@ -22,7 +22,7 @@
 <br>
 
 <p align="center">
-### Feel free to shoot me a message!
+  <h3>Feel free to shoot me a message!</h3>
   <p align="center">
     <a href="https://twitter.com/arunship" alt=""><img height="32" width="32" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg"/></a>
     <a href="https://facebook.com/arunnism" alt=""><img height="32" width="32" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/facebook.svg"/></a>
