@@ -42,8 +42,8 @@ People who know me say I am a thorough person with an eye for details. I dislike
 
 <p align="center">
 <a href="https://www.ghimirearun.com.np"><img src="https://img.shields.io/badge/-ghimirearun.com.np-3423A6?style=flat&logo=Google-Chrome&logoColor=white"/></a>
-<a href="https://linkedin.com/in/arunism"><img src="https://img.shields.io/badge/-Arun%20Ghimire-0077B5?style=flat&logo=Linkedin&logoColor=white"/></a>
 <a href="mailto:thearunism@gmail.com"><img src="https://img.shields.io/badge/-thearunism@gmail.com-D14836?style=flat&logo=Gmail&logoColor=white"/></a>
+<a href="https://linkedin.com/in/arunism"><img src="https://img.shields.io/badge/-@arunism-0077B5?style=flat&logo=Linkedin&logoColor=white"/></a>
 <a href="https://instagram.com/arunnism"><img src="https://img.shields.io/badge/-@arunnism-E4405F?style=flat&logo=Instagram&logoColor=white"/></a>
 <a href="https://facebook.com/arunisms"><img src="https://img.shields.io/badge/-@arunisms-1877F2?style=flat&logo=Facebook&logoColor=white"/></a>
 </p>
