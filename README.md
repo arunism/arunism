@@ -14,7 +14,7 @@ I am `Arun Ghimire`, born and raised in `Nepal`. I enjoy being a lifetime learne
 
 <br/>
 
-![𝚝𝚛𝚘𝚙𝚑𝚢](https://github-profile-trophy.vercel.app/?username=arunism&column=6&margin-w=50&margin-h=50&no-bg=true&no-frame=true&theme=juicyfresh)
+![𝚝𝚛𝚘𝚙𝚑𝚢](https://github-profile-trophy.vercel.app/?username=arunism&column=8&margin-w=50&margin-h=50&no-bg=true&no-frame=true&theme=juicyfresh)
 
 <br/>
 
