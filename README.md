@@ -2,7 +2,6 @@
 
 I am `Arun Ghimire`, born and raised in `Nepal`. I enjoy being a lifetime learner. I love creating something out of nothing by mixing up my knowledge, skills and imagination. I am a thorough person with an eye for details. I dislike sloppiness in real life and bring the same rules to my professional walk-through.
 
-<br/>
 
 ## ⚙️ &nbsp;GitHub Analytics
 
