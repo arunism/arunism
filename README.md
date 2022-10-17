@@ -2,6 +2,8 @@
 
 I am `Arun Ghimire`, born and raised in `Nepal`. I enjoy being a lifetime learner. I love creating something out of nothing by mixing up my knowledge, skills and imagination. I am a thorough person with an eye for details. I dislike sloppiness in real life and bring the same rules to my professional walk-through.
 
+<br/>
+
 ## ⚙️ &nbsp;GitHub Analytics
 
 <br/>
@@ -12,16 +14,14 @@ I am `Arun Ghimire`, born and raised in `Nepal`. I enjoy being a lifetime learne
   <img src="https://img.shields.io/github/stars/arunism?label=Stars" alt="𝚃𝚘𝚝𝚊𝚕 𝚂𝚝𝚊𝚛𝚜">
 </p>
 
-<br/>
 
-![𝚝𝚛𝚘𝚙𝚑𝚢](https://github-profile-trophy.vercel.app/?username=arunism&column=8&margin-w=50&margin-h=50&no-bg=true&no-frame=true&theme=juicyfresh)
+<!-- ![𝚝𝚛𝚘𝚙𝚑𝚢](https://github-profile-trophy.vercel.app/?username=arunism&column=8&margin-w=50&margin-h=50&no-bg=true&no-frame=true&theme=juicyfresh) -->
 
 <br/>
 
 <p align="center">
   <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=arunism&theme=dark&hide_border=true"/>
 </p>
-<br/>
 
 
 <!-- <details open="">
@@ -38,10 +38,14 @@ I am `Arun Ghimire`, born and raised in `Nepal`. I enjoy being a lifetime learne
 </details>
 <br> -->
 
+
+<!-- 
 ## 📈 &nbsp;Contribution Graph
 
 ![𝚐𝚒𝚝𝚑𝚞𝚋 𝚐𝚛𝚊𝚙𝚑](https://activity-graph.herokuapp.com/graph?username=arunism&theme=react-dark&hide_border=true&area=true)
+-->
 
+<!--
 ## 🌞 &nbsp;Quote
 
 <h4 align="center">
@@ -67,6 +71,7 @@ I am `Arun Ghimire`, born and raised in `Nepal`. I enjoy being a lifetime learne
 ```
 
 </h4>
+-->
   
 <!-- ![𝙶𝚒𝚝𝚑𝚞𝚋 𝙲𝚘𝚗𝚝𝚛𝚒𝚋𝚞𝚝𝚒𝚘𝚗 𝙶𝚛𝚊𝚙𝚑](github-contribution-grid-snake.svg) -->
 
