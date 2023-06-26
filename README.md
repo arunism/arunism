@@ -8,7 +8,7 @@ I am `Arun Ghimire`, born and raised in `Nepal`. I enjoy being a lifetime learne
 <br/>
 
 <p align="center">
-  <img src="https://gpvc.arturio.dev/arunism" alt="𝚙𝚛𝚘𝚏𝚒𝚕𝚎 𝚟𝚒𝚎𝚠𝚜"> •  
+  <img src="https://komarev.com/ghpvc/?username=arunism&color=blue"> •  
   <img alt="𝙶𝚒𝚝𝙷𝚞𝚋 𝚏𝚘𝚕𝚕𝚘𝚠𝚎𝚛𝚜" src="https://img.shields.io/github/followers/arunism?label=Followers&style=social"> •   
   <img src="https://img.shields.io/github/stars/arunism?label=Stars" alt="𝚃𝚘𝚝𝚊𝚕 𝚂𝚝𝚊𝚛𝚜">
 </p>
